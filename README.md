@@ -1,5 +1,5 @@
 # test-lib
 ### to install:
 ```bash
-pip3 install test-lib
+pip3 install razan
 ```
